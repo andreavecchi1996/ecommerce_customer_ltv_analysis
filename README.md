@@ -1,0 +1,2 @@
+### Project Overview & Business Value
+Fecom Inc. is a fictional e‑commerce marketplace with 100K+ customers and 99K+ orders across 28 European countries. This project uses its CRM and orders data in BigQuery to analyse customer acquisition, repeat purchases, and customer value by country and seller, helping the business identify which segments are most valuable and where retention can be improved.
