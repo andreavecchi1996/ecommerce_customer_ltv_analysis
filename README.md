@@ -29,3 +29,6 @@ These can be your notebook sections and tell a clear “story” to recruiters:
 
 - Which 3–5 country × seller combinations look like “high churn, low value” → candidates to cut or fix.
 
+---
+BigQuery is used as the main data warehouse and for all heavy transformations; pandas is used in the notebook for quick inspection and visualisation.
+
