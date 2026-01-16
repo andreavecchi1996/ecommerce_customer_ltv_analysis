@@ -12,9 +12,11 @@ The SQL queries (data quality checks, business questions and charts) are contain
 
 ---
 ### Data Structure & Initial Checks
-This analysis uses four tables from Fecom Inc.'s CRM: customer_list, orders, order_items, and products, with a total row count of roughly 300k records.
+This analysis uses four tables from Fecom Inc.'s BigQuery CRM: customer_list, orders, order_items, and products, with a total row count of roughly 300k records.
 
 <img width="656" height="598" alt="Image" src="https://github.com/user-attachments/assets/0a826770-15af-48c9-a48c-02ab8cdf0881" />
+
+Before analysis, the BigQuery tables were loaded into Jupyter notebooks to verify correct data ingestion and format. Quality checks and initial SQL queries for exploration are included in the notebook in the [Data Selection](ecommerce_customer_ltv_analysis.ipynb#data-selection) section.
 
 
 
