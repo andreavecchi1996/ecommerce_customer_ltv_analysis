@@ -9,6 +9,7 @@ Key Questions Answered:
 3. Which product categories drive lifetime revenue in top markets?
 
 The SQL queries (data quality checks, business questions and charts) are contained in this Jupyter notebook [here](ecommerce_customer_ltv_analysis.ipynb)
+
 ---
 ### Data Structure & Initial Checks
 This analysis uses four tables from Fecom Inc.'s CRM: customer_list, orders, order_items, and products, with a total row count of roughly 300k records 
