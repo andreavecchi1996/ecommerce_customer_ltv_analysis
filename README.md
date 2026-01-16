@@ -23,6 +23,8 @@ Finland and Croatia currently have the highest share of customers who place at l
 
 However, returning customer percentage alone does not indicate customer value. Countries with high return rates but low order volume or low revenue may not justify increased marketing investment.
 
+<img width="640" height="453" alt="Image" src="https://github.com/user-attachments/assets/4a3abc65-04f5-4e39-98e5-02d2b5971c41" />
+
 
 
 
