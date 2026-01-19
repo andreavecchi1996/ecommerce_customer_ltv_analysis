@@ -39,7 +39,7 @@ Based on this query, Slovakia, Luxembourg, and Finland have the highest lifetime
 
 
 
-### Within the highest-revenue countries (top of avg_lifetime_revenue_per_customer), which product categories contribute most to customers' lifetime revenue (ltr)?
+### Which product categories drive lifetime revenue in top markets?
 Health_Beauty and Watches_Gifts are the top lifetime revenue generating product categories.
 
 
