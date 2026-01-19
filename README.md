@@ -23,7 +23,8 @@ Before analysis, the BigQuery tables were loaded into Jupyter notebooks to verif
 ### Which countries have the highest percentage of returning customers?
   
 Finland and Croatia currently have the highest share of customers who place at least a second order, with Finland above 5% returning customer rate.
-<img width="1090" height="699" alt="Image" src="https://github.com/user-attachments/assets/5af3a818-d030-4574-bfe3-a672524cd275" />
+
+<img width="640" height="453" alt="Image" src="https://github.com/user-attachments/assets/db5df72e-4f47-4228-9246-67e6a71079a0" />
 
 ### Which countries generate the highest lifetime revenue per customer (LTR)?
   
@@ -36,6 +37,14 @@ Based on this query, Slovakia, Luxembourg, and Finland have the highest lifetime
 <img width="631" height="433" alt="Image" src="https://github.com/user-attachments/assets/bfaa4b95-2bd5-4bff-8e6c-7fcf3baf2065" />
 <img width="631" height="433" alt="Image" src="https://github.com/user-attachments/assets/7c28db8a-b34c-45da-8671-0d38aa8f8625" />
 
+
+
+### Within the highest-revenue countries (top of avg_lifetime_revenue_per_customer), which product categories contribute most to customers' lifetime revenue (ltr)?
+Health_Beauty and Watches_Gifts are the top lifetime revenue generating product categories.
+
+
+<img width="709" height="433" alt="Image" src="https://github.com/user-attachments/assets/66936d62-8c0b-4701-a837-cf2a3808cd40" />
+<img width="709" height="453" alt="Image" src="https://github.com/user-attachments/assets/ddda3aa1-72fd-4910-bd6a-b7b376ee534e" />
 
 
 
