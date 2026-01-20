@@ -1,6 +1,6 @@
 # E-commerce customer lifetime revenue analysis
 ### Project Overview & Business Value
-Fecom Inc. is an e‑commerce marketplace with many one‑time buyers. The company wants to reduce churn and stop wasting marketing budget on low‑value customers. This project utilises its CRM data to identify which countries and sellers attract customers who return (for second orders) and generate the highest lifetime revenue, allowing Fecom to determine where to allocate spending and where to invest more.
+Fecom Inc. is an e‑commerce marketplace with many one‑time buyers. The company wants to reduce churn and stop wasting marketing budget on low‑value customers. This project utilises its CRM data to identify which countries and products attract customers who return (for second orders) and generate the highest lifetime revenue, allowing Fecom to determine where to allocate spending and where to invest more.
 
 
 Key Questions Answered:
