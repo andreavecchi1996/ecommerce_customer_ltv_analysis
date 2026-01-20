@@ -57,10 +57,10 @@ Countries with the highest lifetime revenue per customer are Slovakia, Luxembour
 
 Taking both scale and value into account, the recommended focus markets are:
 
-  Portugal: very high total revenue and many customers, with only a small gap in average LTR versus the very top countries.
-  Sweden: high total revenue and large customer base, mid returning %, slightly lower LTR.
-  Denmark: solid revenue and customer volume, with a stronger LTR than Sweden.
-  Slovakia: highest LTR, plus a decent customer base and strong total revenue.
+- Portugal: very high total revenue and many customers, with only a small gap in average LTR versus the very top countries.
+- Sweden: high total revenue and large customer base, mid returning %, slightly lower LTR.
+- Denmark: solid revenue and customer volume, with a stronger LTR than Sweden.
+- Slovakia: highest LTR, plus a decent customer base and strong total revenue.
 
 Within these priority markets, Health_Beauty and Watches_Gifts are the top lifetime‑revenue‑generating product categories. Fecom should focus on upsell and cross‑sell programs around these categories: for Health_Beauty, offer discounted complementary items when a customer initially buys only one product (classic cross‑sell); for Watches_Gifts, target existing watch buyers with higher‑end models and accessories as upsell opportunities to grow LTR efficiently.
 ​
