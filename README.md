@@ -11,6 +11,15 @@ Key Questions Answered:
 
 The SQL queries (data quality checks, business questions and charts) are contained in this Jupyter notebook [here](ecommerce_customer_ltr_analysis_SQL.ipynb).
 
+# Tech Stack
+
+- **Data warehouse**: Google BigQuery
+- **Querying**: SQL (executed via the BigQuery Python client)
+- **Analysis**: Python (pandas)
+- **Visualization**: matplotlib, seaborn
+- **Environment**: Jupyter Notebook
+- **Version control**: Git & GitHub
+
 # Data Structure & Initial Checks
 This analysis uses four tables derived from a CRM system and stored in BigQuery: customer_list, orders, order_items, and products, with a total row count of roughly 300k records.
 
