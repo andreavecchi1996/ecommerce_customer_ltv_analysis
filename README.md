@@ -63,7 +63,7 @@ Taking both scale and value into account, the recommended focus markets are:
 - Denmark: solid revenue and customer volume, with a stronger LTR than Sweden.
 - Slovakia: highest LTR, plus a decent customer base and strong total revenue.
 
-Within these priority markets, Health_Beauty and Watches_Gifts are the top lifetime‑revenue‑generating product categories. Businesses should focus on upsell and cross‑sell programs around these categories: for Health_Beauty, offer discounted complementary items when a customer initially buys only one product (classic cross‑sell); for Watches_Gifts, target existing watch buyers with higher‑end models and accessories as upsell opportunities to grow LTR efficiently.
+Within these priority markets, Health_Beauty and Watches_Gifts are the top lifetime‑revenue‑generating product categories. The business should focus on upsell and cross‑sell programs around these categories: for Health_Beauty, offer discounted complementary items when a customer initially buys only one product (classic cross‑sell); for Watches_Gifts, target existing watch buyers with higher‑end models and accessories as upsell opportunities to grow LTR efficiently.
 ​
 
 
